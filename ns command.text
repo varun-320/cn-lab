@@ -1,0 +1,17 @@
+java
+---------------
+gedit filename.java ->create
+javac filename.java->complie
+java filename->run
+=================================
+ns
+Open the terminal.
+Execute  java –jar NSG2.1.jar
+mkdir foldername
+cd foldername
+gedit filename.tcl
+gedit filename.awk
+ns.filename.tcl->to get animation
+gedit filename.tr
+awk-f filename.awk.file.tr
+
